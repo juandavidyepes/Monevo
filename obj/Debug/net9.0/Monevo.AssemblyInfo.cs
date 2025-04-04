@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Monevo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1918d2bd0f0fdb35751f0c7ba99b9e489194a35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Monevo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Monevo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

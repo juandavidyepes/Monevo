@@ -95,3 +95,4 @@ D:\3.Studies\Dev\EPAM-NET\Azure\Monevo\obj\Debug\net9.0\refint\Monevo.dll
 D:\3.Studies\Dev\EPAM-NET\Azure\Monevo\obj\Debug\net9.0\Monevo.pdb
 D:\3.Studies\Dev\EPAM-NET\Azure\Monevo\obj\Debug\net9.0\Monevo.genruntimeconfig.cache
 D:\3.Studies\Dev\EPAM-NET\Azure\Monevo\obj\Debug\net9.0\ref\Monevo.dll
+D:\3.Studies\Dev\EPAM-NET\Azure\Monevo\obj\Debug\net9.0\Monevo.sourcelink.json
