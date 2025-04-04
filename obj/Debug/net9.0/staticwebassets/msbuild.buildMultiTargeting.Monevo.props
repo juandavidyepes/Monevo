@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Monevo.props" />
-</Project>
